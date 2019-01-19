@@ -1,0 +1,3 @@
+include serve_swagger/static/*
+include serve_swagger/templates/*
+include readme.md
